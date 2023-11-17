@@ -7,7 +7,8 @@ Skills:  HTML / CSS / JS  / C++ / C  / PYHTON
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Bishoywagih55)  [<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3A2021_Facebook_icon.svg&psig=AOvVaw0iuH8kGQ63_p2S-LWkjqpn&ust=1700348658804000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCBhLSSzIIDFQAAAAAdAAAAABAE' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/?locale=ar_AR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bishoy_wagih55//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Bishoywagih55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/?locale=ar_AR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bishoy_wagih55//)  
+
 
 
 <!--
