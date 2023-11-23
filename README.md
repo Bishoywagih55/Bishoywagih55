@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **node js**
 
-- 👨‍💻 All of my projects are available at [file:///I:/front%20end/porfilo/index.html](file:///I:/front%20end/porfilo/index.html)
-
 - 📫 How to reach me **bishoywagih7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
