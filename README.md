@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bishoy</h1>
 <h3 align="center">competitive programmer & Backend developer</h3>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **Javascript**
 
 - 💻 I am a competitive programmer **codeforces**
 
